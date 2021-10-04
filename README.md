@@ -10,7 +10,7 @@ pip install numpy
 pip install matplotlib
 ```
 
-Execute the notebook [Bootstrapping - Code Demonstration.ipynb](https://github.com/Lawrence-LUOoo/Bootstrapping-Code-Demonstration/blob/main/Bootstrapping%20-%20Code%20Demonstration.ipynb) cell-by-cell to understand how each part of bootstrappigng works.
+Execute the notebook [Bootstrapping - Code Demonstration.ipynb](https://github.com/Lawrence-LUOoo/Bootstrapping-Code-Demonstration/blob/main/Bootstrapping%20-%20Code%20Demonstration.ipynb) cell-by-cell to understand how each part of bootstrapping works.
 
 ## Analysis steps
 1. simulate population distribution
