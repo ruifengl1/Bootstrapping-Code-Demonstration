@@ -1,6 +1,6 @@
 # Getting Started
 
-The code demonstration is providing the insights of how the bootstrap method works in the field of statistics
+The code demonstration is providing the insights of how the bootstrap method works in the field of statistics. Bootstrapping is a simple alternative method for statistical inference based on re-sampling with replacement. Read more about it [here](https://en.wikipedia.org/wiki/Bootstrapping_(statistics))
 
 ## Installation
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install numpy and matplotlib.
