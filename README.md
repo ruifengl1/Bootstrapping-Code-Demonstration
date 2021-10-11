@@ -8,7 +8,7 @@ Although bootstrapping requires a considerable amount of computational power,boo
 
 When building machine learning models, we can use bootstrapping to simulate the dataset on which our model will be trained on. The quality of our model will then be accurately assessed against a portion of the original dataset that was not utilized to create the bootstrapped training set. Read more about it on [Wikipedia](https://en.wikipedia.org/wiki/Bootstrapping_(statistics)). 
 
-![Bootsrapping Illustration] (https://miro.medium.com/max/1400/1*cmA1PPO4Us6_okb5UMhb0Q.jpeg) [Image Credits](https://trisxcjoseph.medium.com/) 
+! [Bootsrapping Illustration] (https://miro.medium.com/max/1400/1*cmA1PPO4Us6_okb5UMhb0Q.jpeg) [Image Credits](https://trisxcjoseph.medium.com/) 
 
 ## Installation
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install numpy and matplotlib.
