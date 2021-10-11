@@ -14,9 +14,12 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install numpy a
 ```bash
 pip install numpy
 pip install matplotlib
+pip install scipy
 ```
 
 Execute the notebook [Bootstrapping - Code Demonstration.ipynb](https://github.com/Lawrence-LUOoo/Bootstrapping-Code-Demonstration/blob/main/Bootstrapping%20-%20Code%20Demonstration.ipynb) cell-by-cell to understand how each part of bootstrapping works.
+
+Execute the notebook [r_squared_bootstrapping.ipynb](https://github.com/Lawrence-LUOoo/Bootstrapping-Code-Demonstration/blob/main/r_squared_bootstrapping.ipynb) cell-by-cell to understand how we can use bootstrapping to get an approximate sample distribution of R<sup>2</sup> for a simple linear regression model. 
 
 ## Analysis steps
 1. simulate population distribution
