@@ -4,7 +4,7 @@ The code demonstration explains how the bootstrap method works in the field of s
 
 Sampling with replacement occurs when a unit is drawn from a finite population and is returned to that population, after its characteristic(s) have been recorded, before the next unit is drawn. Every time we draw an element from our dataset, we will record it on our simulated dataset (known as bootstrapped dataset) and return it to the population afterwards.
 
-Although bootstrapping requires a considerable amount of computational power,bootstrapping is a very useful technique because it saves time and resources when collecting data to study the population.
+Although bootstrapping requires a considerable amount of computational power and can fail when the distribution of the data is not finite, bootstrapping is still considered a very useful technique because it saves time and resources when collecting data to study the population, can be used with small datasets and handles outliers and influential points well.
 
 When building machine learning models, we can use bootstrapping to simulate the dataset on which our model will be trained on. The quality of our model will then be accurately assessed against a portion of the original dataset that was not utilized to create the bootstrapped training set. Read more about it on [Wikipedia](https://en.wikipedia.org/wiki/Bootstrapping_(statistics)). 
 
